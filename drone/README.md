@@ -1,7 +1,8 @@
 # drone releases
 
 Released builds of **drone** (Mini-SCADA Alarm Dialer), for the units in the
-field. This folder holds release files only: no source code.
+field. drone is for commercial and industrial sites, not for residential use.
+This folder holds release files only: no source code.
 
 drone is proprietary software, used only under its commercial licence
 ([LICENSE.md](LICENSE.md), [NOTICE.md](NOTICE.md)). Anyone may download
